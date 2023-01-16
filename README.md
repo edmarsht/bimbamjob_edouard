@@ -1,13 +1,11 @@
 A Reactjs project using Vitejs
 
-To run :
-cd my-project
-npm install
-npm run dev
+To run :</br>
+cd my-project</br>
+npm install</br>
+npm run dev</br>
 
-
-INSTRUCTIONS : 
-
+Instructions : 
 BimBamJob - TEST Technique
 La société BimBamJob développe une tondeuse à gazon automatique capable de tondre des surfaces rectangulaires
 (La tondeuse peut être programmée pour parcourir l'intégralité de la surface.)
